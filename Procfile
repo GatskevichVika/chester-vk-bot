@@ -1,0 +1,1 @@
+python autorization.py
